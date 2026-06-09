@@ -1,7 +1,7 @@
-program_name_and_version,"EnergyPlus 25.2.0 , Bug Fix Edition"
+program_name_and_version,EnergyPlus 25.2.0
 program_version_release_date,11/14/25
 program_name_short,E+
-results_submission_date,06/09/2026
+results_submission_date,6/9/26
 organization,National Laboratory of the Rockies
 organization_short,NLR
 Annual Heating Loads 600,4.325
@@ -472,46 +472,46 @@ FF Average Hourly Zone Temperature 680FF,31.0045
 FF Average Hourly Zone Temperature 980FF,31.2218
 FF Average Hourly Zone Temperature 960,27.4748
 FF Min Hourly Zone Temperature 600FF_°C,-12.5606
-FF Min Hourly Zone Temperature 600FF_DATE,10-FEB
+FF Min Hourly Zone Temperature 600FF_DATE,10-Feb
 FF Min Hourly Zone Temperature 600FF_Hour,6
 FF Min Hourly Zone Temperature 900FF_°C,1.24666
-FF Min Hourly Zone Temperature 900FF_DATE,10-FEB
+FF Min Hourly Zone Temperature 900FF_DATE,10-Feb
 FF Min Hourly Zone Temperature 900FF_Hour,6
 FF Min Hourly Zone Temperature 650FF_°C,-17.0741
 FF Min Hourly Zone Temperature 650FF_DATE,32-DEC
 FF Min Hourly Zone Temperature 650FF_Hour,23
 FF Min Hourly Zone Temperature 950FF_°C,-12.811
-FF Min Hourly Zone Temperature 950FF_DATE,10-FEB
+FF Min Hourly Zone Temperature 950FF_DATE,10-Feb
 FF Min Hourly Zone Temperature 950FF_Hour,5
 FF Min Hourly Zone Temperature 680FF_°C,-7.04932
-FF Min Hourly Zone Temperature 680FF_DATE,10-FEB
+FF Min Hourly Zone Temperature 680FF_DATE,10-Feb
 FF Min Hourly Zone Temperature 680FF_Hour,6
 FF Min Hourly Zone Temperature 980FF_°C,9.98359
-FF Min Hourly Zone Temperature 980FF_DATE,05-NOV
+FF Min Hourly Zone Temperature 980FF_DATE,5-Nov
 FF Min Hourly Zone Temperature 980FF_Hour,6
 FF Min Hourly Zone Temperature 960_°C,4.98973
-FF Min Hourly Zone Temperature 960_DATE,10-FEB
+FF Min Hourly Zone Temperature 960_DATE,10-Feb
 FF Min Hourly Zone Temperature 960_Hour,6
 FF Max Hourly Zone Temperature 600FF_°C,63.92
-FF Max Hourly Zone Temperature 600FF_DATE,19-OCT
+FF Max Hourly Zone Temperature 600FF_DATE,19-Oct
 FF Max Hourly Zone Temperature 600FF_Hour,15
 FF Max Hourly Zone Temperature 900FF_°C,44.2992
-FF Max Hourly Zone Temperature 900FF_DATE,13-SEP
+FF Max Hourly Zone Temperature 900FF_DATE,13-Sep
 FF Max Hourly Zone Temperature 900FF_Hour,14
 FF Max Hourly Zone Temperature 650FF_°C,62.5791
-FF Max Hourly Zone Temperature 650FF_DATE,19-OCT
+FF Max Hourly Zone Temperature 650FF_DATE,19-Oct
 FF Max Hourly Zone Temperature 650FF_Hour,15
 FF Max Hourly Zone Temperature 950FF_°C,36.691
-FF Max Hourly Zone Temperature 950FF_DATE,12-SEP
+FF Max Hourly Zone Temperature 950FF_DATE,12-Sep
 FF Max Hourly Zone Temperature 950FF_Hour,15
 FF Max Hourly Zone Temperature 680FF_°C,70.3371
-FF Max Hourly Zone Temperature 680FF_DATE,23-JAN
+FF Max Hourly Zone Temperature 680FF_DATE,23-Jan
 FF Max Hourly Zone Temperature 680FF_Hour,15
 FF Max Hourly Zone Temperature 980FF_°C,49.6734
-FF Max Hourly Zone Temperature 980FF_DATE,13-SEP
+FF Max Hourly Zone Temperature 980FF_DATE,13-Sep
 FF Max Hourly Zone Temperature 980FF_Hour,14
 FF Max Hourly Zone Temperature 960_°C,49.0823
-FF Max Hourly Zone Temperature 960_DATE,13-OCT
+FF Max Hourly Zone Temperature 960_DATE,13-Oct
 FF Max Hourly Zone Temperature 960_Hour,14
 Annual Incident Total Case 600 600NORTH,438.241
 Annual Incident Total Case 600 600EAST,1062.16
@@ -529,7 +529,7 @@ Sky Temperature Output 600_°C,-37.9796
 Sky Temperature Output 600_DATE,32-DEC
 Sky Temperature Output 600_Hour,23
 Sky Temperature Output 600_°C,24.7306
-Sky Temperature Output 600_DATE,05-AUG
+Sky Temperature Output 600_DATE,5-Aug
 Sky Temperature Output 600_Hour,15
 Monthly Conditioned Zone Loads Case 600 and 900 Total Heating 600,712.08
 Monthly Conditioned Zone Loads Case 600 and 900 Total Heating 900,255.36
@@ -589,7 +589,7 @@ Monthly Conditioned Zone Loads Case 600 and 900 Peak Heating Day 600,11
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Heating Hour 600,5
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Heating Day 900,3
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Heating Hour 900,3
-Monthly Conditioned Zone Loads Case 600 and 900 Peak Cooling Value 600,4.0
+Monthly Conditioned Zone Loads Case 600 and 900 Peak Cooling Value 600,4
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Cooling Value 900,0.97
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Cooling Day 600,12
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Cooling Hour 600,14
@@ -612,11 +612,11 @@ Monthly Conditioned Zone Loads Case 600 and 900 Peak Cooling Hour 600,13
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Cooling Day 900,11
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Cooling Hour 900,14
 Monthly Conditioned Zone Loads Case 600 and 900 Total Heating 600,10.08
-Monthly Conditioned Zone Loads Case 600 and 900 Total Heating 900,0.0
+Monthly Conditioned Zone Loads Case 600 and 900 Total Heating 900,0
 Monthly Conditioned Zone Loads Case 600 and 900 Total Cooling 600,542.19
 Monthly Conditioned Zone Loads Case 600 and 900 Total Cooling 900,404.25
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Heating Value 600,0.77
-Monthly Conditioned Zone Loads Case 600 and 900 Peak Heating Value 900,0.0
+Monthly Conditioned Zone Loads Case 600 and 900 Peak Heating Value 900,0
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Heating Day 600,9
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Heating Hour 600,5
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Heating Day 900,1
@@ -628,11 +628,11 @@ Monthly Conditioned Zone Loads Case 600 and 900 Peak Cooling Hour 600,13
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Cooling Day 900,14
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Cooling Hour 900,14
 Monthly Conditioned Zone Loads Case 600 and 900 Total Heating 600,12.02
-Monthly Conditioned Zone Loads Case 600 and 900 Total Heating 900,0.0
+Monthly Conditioned Zone Loads Case 600 and 900 Total Heating 900,0
 Monthly Conditioned Zone Loads Case 600 and 900 Total Cooling 600,537.21
 Monthly Conditioned Zone Loads Case 600 and 900 Total Cooling 900,399.74
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Heating Value 600,0.54
-Monthly Conditioned Zone Loads Case 600 and 900 Peak Heating Value 900,0.0
+Monthly Conditioned Zone Loads Case 600 and 900 Peak Heating Value 900,0
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Heating Day 600,26
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Heating Hour 600,5
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Heating Day 900,1
@@ -644,11 +644,11 @@ Monthly Conditioned Zone Loads Case 600 and 900 Peak Cooling Hour 600,14
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Cooling Day 900,17
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Cooling Hour 900,14
 Monthly Conditioned Zone Loads Case 600 and 900 Total Heating 600,6.58
-Monthly Conditioned Zone Loads Case 600 and 900 Total Heating 900,0.0
+Monthly Conditioned Zone Loads Case 600 and 900 Total Heating 900,0
 Monthly Conditioned Zone Loads Case 600 and 900 Total Cooling 600,650.81
 Monthly Conditioned Zone Loads Case 600 and 900 Total Cooling 900,512.94
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Heating Value 600,0.5
-Monthly Conditioned Zone Loads Case 600 and 900 Peak Heating Value 900,0.0
+Monthly Conditioned Zone Loads Case 600 and 900 Peak Heating Value 900,0
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Heating Day 600,17
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Heating Hour 600,6
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Heating Day 900,1
@@ -723,11 +723,11 @@ Monthly Conditioned Zone Loads Case 600 and 900 Peak Cooling Day 600,1
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Cooling Hour 600,13
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Cooling Day 900,2
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Cooling Hour 900,15
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 1,0.0
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 2,0.0
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 3,0.0
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 4,0.0
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 5,0.0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 1,0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 2,0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 3,0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 4,0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 5,0
 Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 6,21.25
 Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 7,64.75
 Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 8,114.58
@@ -737,21 +737,21 @@ Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 11,259.
 Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 12,276.58
 Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 13,274.08
 Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 14,255.17
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 15,222.0
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 16,172.0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 15,222
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 16,172
 Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 17,101.92
 Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 18,50.25
 Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 19,10.53
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 20,0.0
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 21,0.0
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 22,0.0
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 23,0.0
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 24,0.0
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 1,0.0
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 2,0.0
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 3,0.0
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 4,0.0
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 5,0.0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 20,0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 21,0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 22,0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 23,0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - Horizontal 24,0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 1,0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 2,0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 3,0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 4,0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 5,0
 Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 6,10.98
 Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 7,33.82
 Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 8,59.97
@@ -762,20 +762,20 @@ Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 12,149.44
 Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 13,147.92
 Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 14,136.71
 Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 15,117.61
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 16,90.0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 16,90
 Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 17,53.26
 Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 18,26.16
 Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 19,5.43
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 20,0.0
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 21,0.0
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 22,0.0
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 23,0.0
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 24,0.0
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - West 1,0.0
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - West 2,0.0
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - West 3,0.0
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - West 4,0.0
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - West 5,0.0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 20,0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 21,0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 22,0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 23,0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - South 24,0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - West 1,0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - West 2,0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - West 3,0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - West 4,0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - West 5,0
 Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - West 6,10.98
 Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - West 7,33.82
 Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - West 8,59.78
@@ -790,22 +790,22 @@ Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - West 16,96.87
 Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - West 17,54.93
 Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - West 18,26.16
 Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - West 19,5.43
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - West 20,0.0
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - West 21,0.0
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - West 22,0.0
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - West 23,0.0
-Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - West 24,0.0
-Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 1,0.0
-Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 2,0.0
-Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 3,0.0
-Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 4,0.0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - West 20,0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - West 21,0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - West 22,0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - West 23,0
+Hourly Incident Solar Radiation Cloudy Day May 4th Case 600 - West 24,0
+Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 1,0
+Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 2,0
+Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 3,0
+Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 4,0
 Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 5,5.65
 Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 6,103.19
 Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 7,289.86
 Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 8,493.43
 Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 9,682.34
 Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 10,837.84
-Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 11,948.0
+Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 11,948
 Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 12,1005.24
 Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 13,1004.03
 Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 14,946.15
@@ -815,14 +815,14 @@ Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 17,48
 Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 18,285.84
 Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 19,99.08
 Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 20,4.44
-Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 21,0.0
-Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 22,0.0
-Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 23,0.0
-Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 24,0.0
-Hourly Incident Solar Radiation Clear Day July 14th Case 600 - South 1,0.0
-Hourly Incident Solar Radiation Clear Day July 14th Case 600 - South 2,0.0
-Hourly Incident Solar Radiation Clear Day July 14th Case 600 - South 3,0.0
-Hourly Incident Solar Radiation Clear Day July 14th Case 600 - South 4,0.0
+Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 21,0
+Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 22,0
+Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 23,0
+Hourly Incident Solar Radiation Cloudy Day July 14th Case 600 - Horizontal 24,0
+Hourly Incident Solar Radiation Clear Day July 14th Case 600 - South 1,0
+Hourly Incident Solar Radiation Clear Day July 14th Case 600 - South 2,0
+Hourly Incident Solar Radiation Clear Day July 14th Case 600 - South 3,0
+Hourly Incident Solar Radiation Clear Day July 14th Case 600 - South 4,0
 Hourly Incident Solar Radiation Clear Day July 14th Case 600 - South 5,2.83
 Hourly Incident Solar Radiation Clear Day July 14th Case 600 - South 6,27.06
 Hourly Incident Solar Radiation Clear Day July 14th Case 600 - South 7,55.39
@@ -839,14 +839,14 @@ Hourly Incident Solar Radiation Clear Day July 14th Case 600 - South 17,81.51
 Hourly Incident Solar Radiation Clear Day July 14th Case 600 - South 18,54.81
 Hourly Incident Solar Radiation Clear Day July 14th Case 600 - South 19,26.26
 Hourly Incident Solar Radiation Clear Day July 14th Case 600 - South 20,2.35
-Hourly Incident Solar Radiation Clear Day July 14th Case 600 - South 21,0.0
-Hourly Incident Solar Radiation Clear Day July 14th Case 600 - South 22,0.0
-Hourly Incident Solar Radiation Clear Day July 14th Case 600 - South 23,0.0
-Hourly Incident Solar Radiation Clear Day July 14th Case 600 - South 24,0.0
-Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 1,0.0
-Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 2,0.0
-Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 3,0.0
-Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 4,0.0
+Hourly Incident Solar Radiation Clear Day July 14th Case 600 - South 21,0
+Hourly Incident Solar Radiation Clear Day July 14th Case 600 - South 22,0
+Hourly Incident Solar Radiation Clear Day July 14th Case 600 - South 23,0
+Hourly Incident Solar Radiation Clear Day July 14th Case 600 - South 24,0
+Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 1,0
+Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 2,0
+Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 3,0
+Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 4,0
 Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 5,2.83
 Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 6,27.06
 Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 7,55.39
@@ -863,10 +863,10 @@ Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 17,853.44
 Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 18,778.08
 Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 19,527.4
 Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 20,70.21
-Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 21,0.0
-Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 22,0.0
-Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 23,0.0
-Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 24,0.0
+Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 21,0
+Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 22,0
+Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 23,0
+Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 24,0
 "Hourly Sky Temperatures for February 1st, May 4th, July 14th Multiple Test Caes 600 1",-22.96
 "Hourly Sky Temperatures for February 1st, May 4th, July 14th Multiple Test Caes 600 2",-24.14
 "Hourly Sky Temperatures for February 1st, May 4th, July 14th Multiple Test Caes 600 3",-25.31
@@ -906,7 +906,7 @@ Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 24,0.0
 "Hourly Sky Temperatures for February 1st, May 4th, July 14th Multiple Test Caes 600 13",0.89
 "Hourly Sky Temperatures for February 1st, May 4th, July 14th Multiple Test Caes 600 14",-0.55
 "Hourly Sky Temperatures for February 1st, May 4th, July 14th Multiple Test Caes 600 15",-2.03
-"Hourly Sky Temperatures for February 1st, May 4th, July 14th Multiple Test Caes 600 16",-2.0
+"Hourly Sky Temperatures for February 1st, May 4th, July 14th Multiple Test Caes 600 16",-2
 "Hourly Sky Temperatures for February 1st, May 4th, July 14th Multiple Test Caes 600 17",-1.83
 "Hourly Sky Temperatures for February 1st, May 4th, July 14th Multiple Test Caes 600 18",-2.11
 "Hourly Sky Temperatures for February 1st, May 4th, July 14th Multiple Test Caes 600 19",-2.36
@@ -939,13 +939,13 @@ Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 24,0.0
 "Hourly Sky Temperatures for February 1st, May 4th, July 14th Multiple Test Caes 600 22",7.92
 "Hourly Sky Temperatures for February 1st, May 4th, July 14th Multiple Test Caes 600 23",7.17
 "Hourly Sky Temperatures for February 1st, May 4th, July 14th Multiple Test Caes 600 24",5.93
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 1",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 2",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 3",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 4",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 5",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 6",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 7",0.0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 1",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 2",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 3",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 4",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 5",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 6",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 7",0
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 8",109.56
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 9",323.8
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 10",484.08
@@ -957,19 +957,19 @@ Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 24,0.0
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 16",366.66
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 17",178.37
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 18",9.79
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 19",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 20",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 21",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 22",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 23",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 24",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 1",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 2",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 3",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 4",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 5",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 6",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 7",0.0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 19",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 20",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 21",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 22",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 23",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 24",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 1",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 2",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 3",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 4",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 5",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 6",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 7",0
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 8",58.7
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 9",175.19
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 10",263.02
@@ -981,19 +981,19 @@ Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 24,0.0
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 16",198.67
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 17",95.79
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 18",5.2
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 19",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 20",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 21",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 22",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 23",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 24",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 1",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 2",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 3",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 4",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 5",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 6",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 7",0.0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 19",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 20",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 21",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 22",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 23",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 24",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 1",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 2",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 3",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 4",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 5",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 6",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 7",0
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 8",144.96
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 9",408.87
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 10",596.1
@@ -1005,17 +1005,17 @@ Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 24,0.0
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 16",459.36
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 17",233.51
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 18",13.56
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 19",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 20",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 21",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 22",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 23",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 24",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 1",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 2",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 3",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 4",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 5",0.0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 19",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 20",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 21",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 22",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 23",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 24",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 1",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 2",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 3",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 4",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 5",0
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 6",6.55
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 7",20.17
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 8",35.76
@@ -1030,16 +1030,16 @@ Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 24,0.0
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 17",31.77
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 18",15.61
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 19",3.24
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 20",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 21",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 22",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 23",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 24",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 1",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 2",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 3",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 4",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 5",0.0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 20",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 21",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 22",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 23",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 24",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 1",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 2",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 3",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 4",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 5",0
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 6",3.56
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 7",10.98
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 8",19.46
@@ -1047,23 +1047,23 @@ Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 24,0.0
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 10",35.08
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 11",45.3
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 12",48.49
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 13",48.0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 13",48
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 14",44.36
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 15",38.16
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 16",29.21
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 17",17.28
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 18",8.49
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 19",1.76
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 20",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 21",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 22",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 23",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 24",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 1",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 2",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 3",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 4",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 5",0.0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 20",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 21",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 22",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 23",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 24",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 1",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 2",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 3",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 4",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 5",0
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 6",8.27
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 7",25.47
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 8",45.16
@@ -1078,15 +1078,15 @@ Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 24,0.0
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 17",40.11
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 18",19.7
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 19",4.09
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 20",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 21",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 22",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 23",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 24",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 1",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 2",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 3",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 4",0.0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 20",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 21",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 22",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 23",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 24",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 1",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 2",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 3",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 4",0
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 5",1.68
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 6",16.14
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 7",33.03
@@ -1103,14 +1103,14 @@ Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 24,0.0
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 18",32.69
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 19",15.66
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 20",1.4
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 21",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 22",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 23",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 24",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 1",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 2",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 3",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 4",0.0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 21",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 22",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 23",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 24",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 1",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 2",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 3",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 4",0
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 5",0.92
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 6",8.78
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 7",17.97
@@ -1127,14 +1127,14 @@ Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 24,0.0
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 18",17.79
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 19",8.52
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 20",0.76
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 21",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 22",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 23",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 24",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 1",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 2",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 3",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 4",0.0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 21",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 22",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 23",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 24",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 1",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 2",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 3",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 4",0
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 5",2.13
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 6",20.38
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 7",41.71
@@ -1151,10 +1151,10 @@ Hourly Incident Solar Radiation Clear Day July 14th Case 600 - West 24,0.0
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 18",41.27
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 19",19.78
 "Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 20",1.77
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 21",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 22",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 23",0.0
-"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 24",0.0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 21",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 22",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 23",0
+"Hourly Transmitted Solar Radiation per Area February 1st, May 4th, July 14th Multiple Test Cases 24",0
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 1,2.15
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2,2.22
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 3,2.28
@@ -1164,7 +1164,7 @@ Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 6
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 7,2.36
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 8,1.88
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 9,0.48
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 10,0.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 10,0
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 11,-1.36
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 12,-3.48
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 13,-4.71
@@ -1202,25 +1202,25 @@ Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 21,1.65
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 22,2.06
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 23,2.33
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 24,0.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 24,0
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 1,1.85
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2,1.9
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 3,1.94
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 4,1.98
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 5,2.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 6,2.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 5,2
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 6,2
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 7,2.01
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 8,1.71
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 9,0.81
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 10,0.06
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 11,0.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 11,0
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 12,-0.54
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 13,-1.73
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 14,-2.2
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 15,-1.88
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 16,-1.21
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 17,-0.3
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 18,0.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 18,0
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 19,0.1
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 20,0.85
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 21,1.41
@@ -1236,7 +1236,7 @@ Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 6
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 7,2.92
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 8,2.37
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 9,0.69
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 10,0.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 10,0
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 11,-1.37
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 12,-3.66
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 13,-4.99
@@ -1244,7 +1244,7 @@ Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 1
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 15,-4.17
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 16,-2.78
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 17,-0.99
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 18,0.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 18,0
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 19,0.49
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 20,1.63
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 21,2.22
@@ -1269,8 +1269,8 @@ Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 1
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 16,-3.92
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 17,-2.24
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 18,-0.36
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 19,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 20,0.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 19,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 20,0
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 21,0.27
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 22,0.77
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 23,1.1
@@ -1292,7 +1292,7 @@ Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 1
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 15,-4.89
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 16,-3.6
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 17,-1.88
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 18,0.03999999999999998
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 18,0.04
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 19,1.1
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 20,1.69
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 21,2.03
@@ -1333,55 +1333,55 @@ Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 7
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 8,1.32
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 9,0.78
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 10,0.26
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 11,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 12,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 13,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 14,0.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 11,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 12,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 13,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 14,0
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 15,-0.06
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 16,-0.04
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 17,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 18,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 19,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 20,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 21,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 22,0.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 17,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 18,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 19,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 20,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 21,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 22,0
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 23,0.17
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 24,0.39
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 1,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 3,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 4,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 5,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 6,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 7,0.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 1,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 3,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 4,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 5,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 6,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 7,0
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 8,1.24
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 9,1.53
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 10,0.82
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 11,0.29
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 12,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 13,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 14,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 15,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 16,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 17,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 18,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 19,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 20,0.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 12,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 13,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 14,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 15,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 16,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 17,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 18,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 19,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 20,0
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 21,0.11
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 22,0.38
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 23,0.6
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 24,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 1,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 3,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 4,0.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 24,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 1,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 3,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 4,0
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 5,0.1
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 6,0.21
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 7,0.31
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 8,0.18
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 9,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 10,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 11,0.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 9,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 10,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 11,0
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 12,-0.13
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 13,-0.77
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 14,-1.2
@@ -1389,12 +1389,12 @@ Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 1
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 16,-1.3
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 17,-0.9
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 18,-0.23
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 19,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 20,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 21,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 22,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 23,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 24,0.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 19,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 20,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 21,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 22,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 23,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 24,0
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 1,1.13
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2,1.23
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 3,1.33
@@ -1443,15 +1443,15 @@ Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 22,-0.14
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 23,0.05
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 24,0.19
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 1,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 3,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 4,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 5,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 6,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 7,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 8,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 9,0.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 1,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 3,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 4,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 5,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 6,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 7,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 8,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 9,0
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 10,-0.36
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 11,-1.46
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 12,-2.42
@@ -1465,17 +1465,17 @@ Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 1
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 20,-0.57
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 21,-0.23
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 22,-0.05
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 23,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 24,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 1,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 3,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 4,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 5,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 6,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 7,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 8,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 9,0.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 23,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 24,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 1,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 3,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 4,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 5,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 6,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 7,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 8,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 9,0
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 10,-0.17
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 11,-0.89
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 12,-1.6
@@ -1490,16 +1490,16 @@ Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 21,-0.24
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 22,-0.08
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 23,-0.01
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 24,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 1,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 3,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 4,0.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 24,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 1,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 3,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 4,0
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 5,0.12
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 6,0.1
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 7,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 8,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 9,0.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 7,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 8,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 9,0
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 10,-0.43
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 11,-1.76
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 12,-2.89
@@ -1513,17 +1513,17 @@ Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 1
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 20,-0.55
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 21,-0.18
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 22,-0.01
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 23,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 24,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 1,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 3,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 4,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 5,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 6,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 7,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 8,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 9,0.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 23,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 24,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 1,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 3,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 4,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 5,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 6,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 7,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 8,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 9,0
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 10,-0.33
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 11,-1.21
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 12,-2.02
@@ -1538,7 +1538,7 @@ Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 21,-0.33
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 22,-0.17
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 23,-0.05
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 24,0.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 24,0
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 1,-0.08
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2,-0.02
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 3,0.06
@@ -1589,11 +1589,11 @@ Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 24,-0.33
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 1,-0.1
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2,-0.03
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 3,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 4,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 5,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 6,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 7,0.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 3,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 4,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 5,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 6,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 7,0
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 8,-0.02
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 9,-0.16
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 10,-0.42
@@ -1615,8 +1615,8 @@ Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 1
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2,-0.16
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 3,-0.09
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 4,-0.02
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 5,0.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 6,0.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 5,0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 6,0
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 7,-0.06
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 8,-0.17
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 9,-0.3
@@ -1684,40 +1684,40 @@ Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 23,-0.92
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 24,-0.82
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 1,10.5
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2,10.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 3,10.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 4,10.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 5,10.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 6,10.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 7,10.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2,10
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 3,10
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 4,10
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 5,10
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 6,10
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 7,10
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 8,15.8
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 9,20.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 9,20
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 10,21.4
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 11,26.5
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 12,27.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 13,27.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 14,27.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 15,27.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 16,27.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 17,27.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 12,27
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 13,27
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 14,27
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 15,27
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 16,27
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 17,27
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 18,25.3
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 19,21.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 20,20.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 21,20.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 22,20.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 23,20.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 19,21
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 20,20
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 21,20
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 22,20
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 23,20
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 24,12.8
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 1,15.6
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2,15.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 2,15
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 3,14.4
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 4,13.9
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 5,13.4
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 6,12.9
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 7,12.4
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 8,16.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 9,20.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 10,20.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 11,20.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 8,16
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 9,20
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 10,20
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 11,20
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 12,21.1
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 13,23.2
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 14,24.7
@@ -1727,15 +1727,15 @@ Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 1
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 18,22.8
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 19,21.5
 Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 20,20.6
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 21,20.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 22,20.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 23,20.0
-Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 24,18.0
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 21,20
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 22,20
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 23,20
+Hourly Heating and Cooling Load February 1st and July 14th Multiple Test Cases 24,18
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 1,5.5
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 2,3.8
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 3,2.4
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 4,1.1
-Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 5,0.0
+Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 5,0
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 6,-0.9
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 7,-1.7
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 8,-1.4
@@ -1747,25 +1747,25 @@ Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 13
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 14,43.7
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 15,47.2
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 16,47.8
-Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 17,45.0
+Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 17,45
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 18,38.8
-Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 19,32.0
+Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 19,32
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 20,26.3
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 21,21.3
-Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 22,17.0
+Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 22,17
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 23,13.2
-Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 24,10.0
-Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 1,13.0
+Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 24,10
+Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 1,13
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 2,12.4
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 3,11.9
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 4,11.4
-Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 5,11.0
+Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 5,11
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 6,10.6
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 7,10.2
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 8,10.3
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 9,11.8
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 10,13.8
-Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 11,16.0
+Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 11,16
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 12,18.3
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 13,20.5
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 14,22.1
@@ -1777,12 +1777,12 @@ Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 19
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 20,18.4
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 21,17.6
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 22,16.8
-Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 23,16.0
+Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 23,16
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 24,15.4
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 1,19.9
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 2,19.1
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 3,18.1
-Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 4,17.0
+Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 4,17
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 5,15.9
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 6,16.4
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 7,18.8
@@ -1794,23 +1794,23 @@ Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 12
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 13,39.2
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 14,42.4
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 15,44.3
-Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 16,45.0
+Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 16,45
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 17,44.7
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 18,43.8
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 19,34.4
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 20,30.9
-Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 21,28.0
-Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 22,26.0
+Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 21,28
+Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 22,26
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 23,24.5
-Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 24,23.0
+Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 24,23
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 1,21.2
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 2,20.7
-Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 3,20.0
+Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 3,20
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 4,19.2
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 5,18.3
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 6,18.6
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 7,20.3
-Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 8,23.0
+Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 8,23
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 9,24.4
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 10,25.6
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 11,26.9
@@ -1821,7 +1821,7 @@ Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 15
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 16,30.4
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 17,30.4
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 18,30.4
-Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 19,29.0
+Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 19,29
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 20,27.7
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 21,26.3
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 22,25.5
@@ -1845,7 +1845,7 @@ Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 15
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 16,56.6
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 17,55.2
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 18,50.4
-Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 19,45.0
+Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 19,45
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 20,40.1
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 21,35.7
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 22,31.8
@@ -1862,7 +1862,7 @@ Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 8,
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 9,21.8
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 10,23.7
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 11,25.7
-Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 12,28.0
+Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 12,28
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 13,30.1
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 14,31.6
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 15,32.2
@@ -1870,98 +1870,98 @@ Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 16
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 17,31.6
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 18,29.9
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 19,28.8
-Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 20,28.0
+Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 20,28
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 21,27.3
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 22,26.6
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 23,25.9
 Hourly Free Float Temperatures February 1st and July 14th Multiple Test Cases 24,25.4
-Hourly Annual Zone Temperature Bin Data - Case 900FF -19,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF -18,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF -17,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF -16,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF -15,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF -14,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF -13,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF -12,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF -11,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF -10,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF -9,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF -8,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF -7,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF -6,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF -5,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF -4,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF -3,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF -2,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF -1,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 0,4.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 1,4.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 2,20.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 3,21.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 4,39.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 5,51.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 6,63.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 7,70.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 8,83.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 9,124.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 10,168.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 11,214.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 12,189.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 13,196.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 14,250.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 15,272.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 16,236.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 17,317.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 18,318.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 19,331.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 20,310.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 21,325.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 22,302.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 23,278.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 24,298.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 25,283.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 26,309.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 27,303.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 28,327.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 29,358.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 30,383.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 31,367.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 32,400.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 33,374.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 34,313.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 35,253.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 36,212.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 37,153.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 38,116.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 39,65.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 40,35.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 41,17.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 42,7.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 43,2.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 44,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 45,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 46,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 47,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 48,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 49,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 50,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 51,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 52,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 53,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 54,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 55,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 56,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 57,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 58,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 59,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 60,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 61,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 62,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 63,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 64,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 65,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 66,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 67,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 68,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 69,0.0
-Hourly Annual Zone Temperature Bin Data - Case 900FF 70,0.0
+Hourly Annual Zone Temperature Bin Data - Case 900FF -19,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF -18,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF -17,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF -16,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF -15,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF -14,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF -13,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF -12,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF -11,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF -10,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF -9,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF -8,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF -7,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF -6,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF -5,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF -4,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF -3,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF -2,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF -1,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF 0,4
+Hourly Annual Zone Temperature Bin Data - Case 900FF 1,4
+Hourly Annual Zone Temperature Bin Data - Case 900FF 2,20
+Hourly Annual Zone Temperature Bin Data - Case 900FF 3,21
+Hourly Annual Zone Temperature Bin Data - Case 900FF 4,39
+Hourly Annual Zone Temperature Bin Data - Case 900FF 5,51
+Hourly Annual Zone Temperature Bin Data - Case 900FF 6,63
+Hourly Annual Zone Temperature Bin Data - Case 900FF 7,70
+Hourly Annual Zone Temperature Bin Data - Case 900FF 8,83
+Hourly Annual Zone Temperature Bin Data - Case 900FF 9,124
+Hourly Annual Zone Temperature Bin Data - Case 900FF 10,168
+Hourly Annual Zone Temperature Bin Data - Case 900FF 11,214
+Hourly Annual Zone Temperature Bin Data - Case 900FF 12,189
+Hourly Annual Zone Temperature Bin Data - Case 900FF 13,196
+Hourly Annual Zone Temperature Bin Data - Case 900FF 14,250
+Hourly Annual Zone Temperature Bin Data - Case 900FF 15,272
+Hourly Annual Zone Temperature Bin Data - Case 900FF 16,236
+Hourly Annual Zone Temperature Bin Data - Case 900FF 17,317
+Hourly Annual Zone Temperature Bin Data - Case 900FF 18,318
+Hourly Annual Zone Temperature Bin Data - Case 900FF 19,331
+Hourly Annual Zone Temperature Bin Data - Case 900FF 20,310
+Hourly Annual Zone Temperature Bin Data - Case 900FF 21,325
+Hourly Annual Zone Temperature Bin Data - Case 900FF 22,302
+Hourly Annual Zone Temperature Bin Data - Case 900FF 23,278
+Hourly Annual Zone Temperature Bin Data - Case 900FF 24,298
+Hourly Annual Zone Temperature Bin Data - Case 900FF 25,283
+Hourly Annual Zone Temperature Bin Data - Case 900FF 26,309
+Hourly Annual Zone Temperature Bin Data - Case 900FF 27,303
+Hourly Annual Zone Temperature Bin Data - Case 900FF 28,327
+Hourly Annual Zone Temperature Bin Data - Case 900FF 29,358
+Hourly Annual Zone Temperature Bin Data - Case 900FF 30,383
+Hourly Annual Zone Temperature Bin Data - Case 900FF 31,367
+Hourly Annual Zone Temperature Bin Data - Case 900FF 32,400
+Hourly Annual Zone Temperature Bin Data - Case 900FF 33,374
+Hourly Annual Zone Temperature Bin Data - Case 900FF 34,313
+Hourly Annual Zone Temperature Bin Data - Case 900FF 35,253
+Hourly Annual Zone Temperature Bin Data - Case 900FF 36,212
+Hourly Annual Zone Temperature Bin Data - Case 900FF 37,153
+Hourly Annual Zone Temperature Bin Data - Case 900FF 38,116
+Hourly Annual Zone Temperature Bin Data - Case 900FF 39,65
+Hourly Annual Zone Temperature Bin Data - Case 900FF 40,35
+Hourly Annual Zone Temperature Bin Data - Case 900FF 41,17
+Hourly Annual Zone Temperature Bin Data - Case 900FF 42,7
+Hourly Annual Zone Temperature Bin Data - Case 900FF 43,2
+Hourly Annual Zone Temperature Bin Data - Case 900FF 44,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF 45,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF 46,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF 47,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF 48,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF 49,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF 50,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF 51,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF 52,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF 53,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF 54,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF 55,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF 56,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF 57,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF 58,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF 59,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF 60,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF 61,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF 62,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF 63,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF 64,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF 65,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF 66,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF 67,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF 68,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF 69,0
+Hourly Annual Zone Temperature Bin Data - Case 900FF 70,0
