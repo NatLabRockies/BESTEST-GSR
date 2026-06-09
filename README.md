@@ -23,9 +23,9 @@ The default IDF generation is based on the OpenStudio CLI, but the workflow supp
 
 ### Dependencies
 
-* Install [OpenStudio 3.10.0](https://www.openstudio.net/downloads)
+* Install [OpenStudio 3.11.0](https://www.openstudio.net/downloads)
     * make sure command line can recognize the 'openstudio' command
-    * This includes EnergyPlus 25.1.0
+    * This includes EnergyPlus 25.2.0
 * Install [Ruby](https://www.ruby-lang.org/en/) on your system if it isn't already setup.
     * 3.2.2 is used for development but other versions may work
     * Since OpenStudio has its own embedded Ruby, which is used for running measures, you don't necessarily have to use a version of Ruby supported by OpenStudio.
@@ -54,7 +54,7 @@ The default IDF generation is based on the OpenStudio CLI, but the workflow supp
 
 * Generally a release is made every 6 months shortly after each EnergyPus and OpenStudio release.
 * Development is done on a branch and then merged to main.
-    * A pull request to main triggers an NREL Continuous Integration (CI) test which runs the test cases and reporting on remote resources.
+    * A pull request to main triggers an NLR Continuous Integration (CI) test which runs the test cases and reporting on remote resources.
 * To minimize the repository size test case zip files are not included in the repository. They are attached as assets to a release and are posted on [Amazon S3](http://besttest-gsr.s3-website-us-west-2.amazonaws.com/?prefix=)
     * You can also checkout the repository and run any testcase in less than a minute or the suite in less than 30 minutes on most computers.
 * If you are interested in contributing please see our [contribution policy] (.github/COntributing. md)
@@ -139,7 +139,7 @@ The measures are contained in the `measures` directory at the top level of the r
 
 #### Workflow
 
-There is a sub directory under `integratio_testing/workflow` for each BESTEST test case. Each directory has a unique 'data_flow.osw' file that used to generate the OSM, IDF file, and the simulation results. See link for documentation on the [OpenStudio CLI.](http://nrel.github.io/OpenStudio-user-documentation/reference/command_line_interface/)
+There is a sub directory under `integration_testing/workflow` for each BESTEST test case. Each directory has a unique 'data_point.osw' file that is used to generate the OSM, IDF file, and the simulation results. See link for documentation on the [OpenStudio CLI.](http://natlabrockies.github.io/OpenStudio-user-documentation/reference/command_line_interface/)
 
 There are 97 test case that start with `BESTEST Case ...`. There are two sample workflows in the 'workflow' directory, both generate test case 600EN. One articulates the model with OpenStudio and runs an OpenStudio reporting measure. The other imports an externally generated IDF file and run the same OpenStudio reporting measure as the osm generated test case. The only change the reporting measure makes to the IDF is to inject output variable requests needed by the reporting measure. The IDF file for the "Bring your own IDF" example comes from the `workflow_resources` directory.
 
