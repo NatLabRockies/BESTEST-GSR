@@ -1,9 +1,9 @@
-program_name_and_version,"EnergyPlus 25.1.0 , Bug Fix Edition"
-program_version_release_date,05/28/25
+program_name_and_version,"EnergyPlus 25.2.0 , Bug Fix Edition"
+program_version_release_date,11/14/25
 program_name_short,E+
-results_submission_date,06/18/2025
-organization,National Renewable Energy Laboratory
-organization_short,NREL
+results_submission_date,06/09/2026
+organization,National Laboratory of the Rockies
+organization_short,NLR
 Annual Heating Loads 600,4.325
 Annual Heating Loads 610,4.375
 Annual Heating Loads 620,4.48333
@@ -661,7 +661,7 @@ Monthly Conditioned Zone Loads Case 600 and 900 Peak Cooling Day 900,29
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Cooling Hour 900,15
 Monthly Conditioned Zone Loads Case 600 and 900 Total Heating 600,73.33
 Monthly Conditioned Zone Loads Case 600 and 900 Total Heating 900,0.11
-Monthly Conditioned Zone Loads Case 600 and 900 Total Cooling 600,735.07
+Monthly Conditioned Zone Loads Case 600 and 900 Total Cooling 600,735.08
 Monthly Conditioned Zone Loads Case 600 and 900 Total Cooling 900,493.44
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Heating Value 600,1.16
 Monthly Conditioned Zone Loads Case 600 and 900 Peak Heating Value 900,0.07
