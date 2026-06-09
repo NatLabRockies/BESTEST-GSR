@@ -139,7 +139,7 @@ The measures are contained in the `measures` directory at the top level of the r
 
 #### Workflow
 
-There is a sub directory under `integratio_testing/workflow` for each BESTEST test case. Each directory has a unique 'data_flow.osw' file that used to generate the OSM, IDF file, and the simulation results. See link for documentation on the [OpenStudio CLI.](http://natlabrockies.github.io/OpenStudio-user-documentation/reference/command_line_interface/)
+There is a sub directory under `integration_testing/workflow` for each BESTEST test case. Each directory has a unique 'data_point.osw' file that is used to generate the OSM, IDF file, and the simulation results. See link for documentation on the [OpenStudio CLI.](http://natlabrockies.github.io/OpenStudio-user-documentation/reference/command_line_interface/)
 
 There are 97 test case that start with `BESTEST Case ...`. There are two sample workflows in the 'workflow' directory, both generate test case 600EN. One articulates the model with OpenStudio and runs an OpenStudio reporting measure. The other imports an externally generated IDF file and run the same OpenStudio reporting measure as the osm generated test case. The only change the reporting measure makes to the IDF is to inject output variable requests needed by the reporting measure. The IDF file for the "Bring your own IDF" example comes from the `workflow_resources` directory.
 
